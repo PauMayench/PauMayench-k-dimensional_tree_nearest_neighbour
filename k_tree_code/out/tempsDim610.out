@@ -1,0 +1,10 @@
+#12:55 5-10-2023
+#n_arbres_per_mida: 100
+#n_consultes_cada_arbre: 1000
+DIMENSIO: 6
+   MIDA: 10000000
+   COST KTREE  1067
+   COST RKTREE 1987
+   COST SKTREE 599
+
+
