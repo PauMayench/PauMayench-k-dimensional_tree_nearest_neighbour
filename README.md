@@ -1,10 +1,11 @@
 # k-Dimensional Tree Project for Algorithmics Course at FIB-UPC
+
+## Overview
+This project is part of the Algorithmics course at the Facultat d'Informàtica de Barcelona (FIB) of the Universitat Politècnica de Catalunya (UPC). It focuses on implementing various k-dimensional tree data structures (k-d trees) and an algorithm for nearest neighbor searches within these trees. The objective is to experimentally study the average-case performance of the nearest neighbor search algorithm and to report the findings.
 <p align="center">
   <img src="https://github.com/PauMayench/PauMayench-k-dimensional_tree_nearest_neighbour/assets/120923489/fb37727e-c2ad-4836-bb0a-ffca1f9a2e6f" alt="image">
 </p>
 
-## Overview
-This project is part of the Algorithmics course at the Facultat d'Informàtica de Barcelona (FIB) of the Universitat Politècnica de Catalunya (UPC). It focuses on implementing various k-dimensional tree data structures (k-d trees) and an algorithm for nearest neighbor searches within these trees. The objective is to experimentally study the average-case performance of the nearest neighbor search algorithm and to report the findings.
 
 ## Implementation
 The project implements three variants of k-d trees:
